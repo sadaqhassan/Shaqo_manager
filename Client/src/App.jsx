@@ -6,7 +6,7 @@ function App() {
     <div>
 
       <Routes>
-        <Route
+        <Route/>
       </Routes>
     </div>
   )
